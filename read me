@@ -1,0 +1,10 @@
+This is a mini project on student database management system.
+It is file structure concept and using primary indexing.
+It is implemented in c++.
+It creat two files.
+1. record_student.txt
+It is used to store all the details about students.
+2. index_student.txt
+It is used to store usn and index of the records.
+
+********for any query please mail********
